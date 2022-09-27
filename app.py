@@ -26,7 +26,7 @@ with st.sidebar:
 if (selected == 'Diabetes Prediction'):
     
     # page title
-    st.title('Smart Diabetes Assistance')
+    st.title('Smart Diabetes Assistant')
     
     
     # getting the input data from the user
